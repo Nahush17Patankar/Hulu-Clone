@@ -1,0 +1,6 @@
+.results{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: start;
+    justify-content: center;
+}
